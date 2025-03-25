@@ -1,7 +1,5 @@
-## 3️⃣ Function with Default Parameter
-def greet(name="Guest"):
-    """This function greets the user with a default or provided name."""
-    print("Hello,", name)
+list1 = 89,
+list3 = 89,
+print(list1 is list3)
 
-greet()         # Output: Hello, Guest
-greet("Alice")  # Output: Hello, Alice
+
